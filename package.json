@@ -1,0 +1,32 @@
+{
+  "name": "pokefight_backend",
+  "version": "1.0.0",
+  "description": "Small application including a detailed database of pokemon's and also a fight game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diskodenso/pokefight_backend.git"
+  },
+  "keywords": [
+    "React",
+    "NodeJS",
+    "MongoDB",
+    "Mongoose",
+    "ExpressJS"
+  ],
+  "author": "Denis Olf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diskodenso/pokefight_backend/issues"
+  },
+  "homepage": "https://github.com/diskodenso/pokefight_backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
