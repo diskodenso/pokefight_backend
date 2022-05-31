@@ -15,7 +15,7 @@ app.use(cors());
 
 // decalre main Route through middleware
 app.use("/api/pokemons", pokemonsRouter);
-// Api Description
+// Api Description with ejs - needs to be installed and created
 app
   .get("/", (req, res) =>
     res.render("pages/index")
