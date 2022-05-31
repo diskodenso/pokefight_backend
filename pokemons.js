@@ -1,1 +1,0 @@
-console.log("here should be a pokemon json file")

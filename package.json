@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Small application including a detailed database of pokemon's and also a fight game",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
